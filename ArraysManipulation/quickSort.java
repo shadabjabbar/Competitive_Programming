@@ -3,7 +3,7 @@ import java.util.*;
 public class quickSort {
     int partition(int[] arr,int low,int high)
     {
-        int pivot=arr[(low+high)/2];//pivoting the middle element
+        int pivot=arr[(low+high)/2];
         while(low<=high)
         {
             while(arr[low]<pivot)
