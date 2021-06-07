@@ -7,16 +7,16 @@ While All the lines annd operator written after the recursive call are Executed 
 
 ### List of Question
 
-[Q1.Print Natural Number from n to 1](./naturalNumber.java)
+[Q1.Print Natural Number from n to 1](./Questions/naturalNumber.java)
 
-[Q2.Print Natural Number from 1 to n](./natIncreasing.java)
+[Q2.Print Natural Number from 1 to n](./Questions/natIncreasing.java)
 
-[Q3.Print Decreasing then Increasing](./incDec.java)
+[Q3.Print Decreasing then Increasing](./Questions/incDec.java)
 
-[Q4.Find the Factorial of a number](./fact.java)
+[Q4.Find the Factorial of a number](./Questions/fact.java)
 
-[Q5.Find the pow using recusrion m^n complexity will be n](./pow.java)
+[Q5.Find the pow using recusrion m^n complexity will be n](./Questions/pow.java)
 
-[Q6.Find the pow using recusrion m^n using Logarithm Way complexity will be log(n)](./powLog.java)
+[Q6.Find the pow using recusrion m^n using Logarithm Way complexity will be log(n)](./Questions/powLog.java)
 
 
