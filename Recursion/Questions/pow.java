@@ -1,7 +1,7 @@
 //Finding the power
 //Concept is 5^3=5^2*5 and making it recusrive
 
-package Recursion;
+package Recursion.Questions;
 
 import java.util.Scanner;
 

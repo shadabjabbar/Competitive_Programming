@@ -2,7 +2,7 @@
 //5^7=5^3*5^3*5 for odd
 //We will calculate pow(5,4)=pow(5,2)*pow(5,2) and so on
 
-package Recursion;
+package Recursion.Questions;
 
 import java.util.Scanner;
 

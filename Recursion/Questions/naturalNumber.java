@@ -1,6 +1,6 @@
 //This Program print the Natural Number from n up to 1
 //5 4 3 2 1
-package Recursion;
+package Recursion.Questions;
 
 import java.util.*;
 public class naturalNumber {

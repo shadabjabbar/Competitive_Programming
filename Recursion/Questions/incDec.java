@@ -1,15 +1,16 @@
-//This Program print the Natural Number from 1 up to n
-//1 2 3 4 5
-
-package Recursion;
+ /**
+ * This Program will print the Numbers from n to 1  then print from 1 to n
+ */
+package Recursion.Questions;
 
 import java.util.Scanner;
 
-public class natIncreasing {
+public class incDec {
     static void increasingNumber(int n)
     {
         if(n==0)
             return;
+        System.out.print(n+" ");
         increasingNumber(n-1);
         System.out.print(n+" ");
     }

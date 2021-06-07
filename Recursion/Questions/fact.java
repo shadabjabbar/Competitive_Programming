@@ -1,7 +1,7 @@
 //Finding the Factorial of number
 //5!= %*4*3*2*1;
 
-package Recursion;
+package Recursion.Questions;
 import java.io.*;
 import java.util.Scanner;
 
