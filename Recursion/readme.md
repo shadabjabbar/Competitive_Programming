@@ -7,7 +7,7 @@ While All the lines annd operator written after the recursive call are Executed 
 
 ### List of Question
 
-[Q1.Print Natural Number from n to 1](.n/naturalNumber.java)
+[Q1.Print Natural Number from n to 1](./naturalNumber.java)
 
 [Q2.Print Natural Number from 1 to n](./natIncreasing.java)
 
