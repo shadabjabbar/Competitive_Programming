@@ -2,8 +2,8 @@
 
 
 ## Important thing about Recursion
-All the lines annd operator written before the recursive call are Executed First i.e executed when going from lower to higher Stack
-While All the lines annd operator written after the recursive call are Executed when the base condition reached i.e executed when coming back from higher to lower Stack
+All the lines and operator written before the recursive call are Executed First i.e executed when going from lower to higher Stack
+While All the lines and operator written after the recursive call are Executed when the base condition reached i.e executed when coming back from higher to lower Stack
 
 ### List of Question
 
@@ -15,8 +15,8 @@ While All the lines annd operator written after the recursive call are Executed 
 
 [Q4.Find the Factorial of a number](./Questions/fact.java)
 
-[Q5.Find the pow using recusrion m^n complexity will be n](./Questions/pow.java)
+[Q5.Find the pow using recursion m^n complexity will be n](./Questions/pow.java)
 
-[Q6.Find the pow using recusrion m^n using Logarithm Way complexity will be log(n)](./Questions/powLog.java)
+[Q6.Find the pow using recursion m^n using Logarithm Way complexity will be log(n)](./Questions/powLog.java)
 
 
