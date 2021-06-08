@@ -19,6 +19,10 @@ While All the lines and operator written after the recursive call are Executed w
 
 [Q6.Find the pow using recursion m^n using Logarithm Way complexity will be log(n)](./Questions/powLog.java)
 
-[Q7.Solve the tower of hanoi puzzle aby accepting no of disc from user](./Questions/towerOfHanoi.java)
+[Q7.Solve the tower of hanoi puzzle aby accepting number of disc from user](./Questions/towerOfHanoi.java)
+
+[Q8.Print the array using recursion](./Questions/printArray.java)
+
+[Q9.Print the array using recursion](./Questions/printArrayReverse.java)
 
 
