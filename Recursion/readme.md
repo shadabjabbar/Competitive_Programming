@@ -23,6 +23,6 @@ While All the lines and operator written after the recursive call are Executed w
 
 [Q8.Print the array using recursion](./Questions/printArray.java)
 
-[Q9.Print the array using recursion](./Questions/printArrayReverse.java)
+[Q9.Print the array in reverse order using recursion](./Questions/printArrayReverse.java)
 
 
