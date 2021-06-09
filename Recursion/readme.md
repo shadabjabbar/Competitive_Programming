@@ -19,10 +19,18 @@ While All the lines and operator written after the recursive call are Executed w
 
 [Q6.Find the pow using recursion m^n using Logarithm Way complexity will be log(n)](./Questions/powLog.java)
 
-[Q7.Solve the tower of hanoi puzzle aby accepting number of disc from user](./Questions/towerOfHanoi.java)
+[Q7.Solve the tower of hanoi puzzle by accepting number of disc from user](./Questions/towerOfHanoi.java)
 
 [Q8.Print the array using recursion](./Questions/printArray.java)
 
 [Q9.Print the array in reverse order using recursion](./Questions/printArrayReverse.java)
+
+[Q10.Find the maximum of the array using recursion](./Questions/maxElement.java)
+
+[Q11.Find the position of first element in a array using recursion](./Questions/frequencyOfElement.java)
+
+[Q12.Find the position of last occurrence of element in a array using recursion](./Questions/lastIndex.java)
+
+[Q13.Find all the occurrence of element in the array](./Questions/allOccurence.java)
 
 
